@@ -4,6 +4,10 @@
 
 当前版本：`V0.1 MVP`
 
+## 在线试玩
+
+[打开 Tiny Being](https://junli-huang.github.io/tiny-being/)
+
 ## 已实现
 
 - 首次孵化与宠物命名
